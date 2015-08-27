@@ -10,7 +10,7 @@ Install a Puppet master along with the utilities that I use (following the gener
 
 Notice there is no PuppetDB. Puppet can install/configure PuppetDB itself, so I do not see a place for it in the bootstrap process.
 
-# Pre-requisities
+# Pre-requisites
 
 Currently tested on CentOS 6 only. I have every intention of adding CentOS 7 support and it may well work out-of-the-box.
 
